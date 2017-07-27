@@ -3,7 +3,7 @@ pragma solidity ^0.4.11;
 contract GongoloSplitter {
 
   address[4] public listaAzionisti;
-  address matteo = 0xa6499398392eDBd0774574122a7C6DAA1c3184af;
+  address matteo = 0xcB5C7016F0dC9A368B403216B6998AfcCeFbe3d5;
   address giuseppe = 0x7B3B5C3175D8BeEbae37419C174295975E0F1A29;
   address silvio = 0x601a4eE384ee41898E18716103E346b612a4d5dc;
   address andrea = 0xadfe237e909Bba2cAcae989b1BdC275E110C06fb;
